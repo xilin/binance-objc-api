@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[YTKNetworkAgent handleRequestResult:responseObject:error:]:YTKNetworkAgent.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIImage *)[[UIImage alloc] initWithData:responseObject]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,6 @@
+framework module BinanceApiClient {
+  umbrella header "BinanceApiClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

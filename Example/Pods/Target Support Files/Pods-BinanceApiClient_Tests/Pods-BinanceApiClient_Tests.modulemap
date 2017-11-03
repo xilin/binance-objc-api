@@ -1,0 +1,6 @@
+framework module Pods_BinanceApiClient_Tests {
+  umbrella header "Pods-BinanceApiClient_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
